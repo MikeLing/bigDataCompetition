@@ -1,0 +1,2 @@
+# bigDataCompetition
+Experiment for saikr
